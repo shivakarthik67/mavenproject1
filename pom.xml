@@ -6,6 +6,8 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>Test-project</name>
+  
+  <--demo on web-hooks-->
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
